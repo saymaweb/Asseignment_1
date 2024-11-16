@@ -1,5 +1,5 @@
-# tecnology
+## tecnology
 # HTML
 # CSS
 # JS
-LIVE LINK:
+LIVE LINK:https://saymaweb.github.io/Asseignment_1/
